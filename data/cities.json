@@ -1,0 +1,272 @@
+[
+  {
+    "id": "city-1",
+    "name": "Douala",
+    "region_id": "reg-1",
+    "description": "The economic capital and largest city.",
+    "latitude": 4.0511,
+    "longitude": 9.7679,
+    "image_url": "https://i.pinimg.com/1200x/52/78/22/527822597ac14b1d6251626d42b2edbb.jpg"
+  },
+  {
+    "id": "city-2",
+    "name": "Edea",
+    "region_id": "reg-1",
+    "description": "An industrial city known for the Sanaga river dam.",
+    "latitude": 3.8055,
+    "longitude": 10.1301,
+    "image_url": "https://i.pinimg.com/1200x/52/78/22/527822597ac14b1d6251626d42b2edbb.jpg"
+  },
+  {
+    "id": "city-3",
+    "name": "Nkongsamba",
+    "region_id": "reg-1",
+    "description": "An agricultural hub shadowed by Mount Manengouba.",
+    "latitude": 4.9547,
+    "longitude": 9.9329,
+    "image_url": "https://i.pinimg.com/1200x/52/78/22/527822597ac14b1d6251626d42b2edbb.jpg"
+  },
+  {
+    "id": "city-4",
+    "name": "Yaoundé",
+    "region_id": "reg-2",
+    "description": "The political capital, spread across seven hills.",
+    "latitude": 3.848,
+    "longitude": 11.5021,
+    "image_url": "https://i.pinimg.com/736x/99/c3/27/99c327500bcdeece7f5660fa853cea18.jpg"
+  },
+  {
+    "id": "city-5",
+    "name": "Mbalmayo",
+    "region_id": "reg-2",
+    "description": "A forestry and agricultural town south of Yaoundé.",
+    "latitude": 3.5167,
+    "longitude": 11.5,
+    "image_url": "https://i.pinimg.com/736x/99/c3/27/99c327500bcdeece7f5660fa853cea18.jpg"
+  },
+  {
+    "id": "city-6",
+    "name": "Bafia",
+    "region_id": "reg-2",
+    "description": "Known for traditional dances and agricultural produce.",
+    "latitude": 4.75,
+    "longitude": 11.2333,
+    "image_url": "https://i.pinimg.com/736x/99/c3/27/99c327500bcdeece7f5660fa853cea18.jpg"
+  },
+  {
+    "id": "city-7",
+    "name": "Bafoussam",
+    "region_id": "reg-3",
+    "description": "The capital city of the western highlands.",
+    "latitude": 5.4819,
+    "longitude": 10.4222,
+    "image_url": "https://i.pinimg.com/736x/a9/17/3f/a9173fc67780e32797673bfa46a3a454.jpg"
+  },
+  {
+    "id": "city-8",
+    "name": "Dschang",
+    "region_id": "reg-3",
+    "description": "A university town with a cooler climate and museums.",
+    "latitude": 5.443,
+    "longitude": 10.0538,
+    "image_url": "https://i.pinimg.com/736x/a9/17/3f/a9173fc67780e32797673bfa46a3a454.jpg"
+  },
+  {
+    "id": "city-9",
+    "name": "Foumban",
+    "region_id": "reg-3",
+    "description": "A deeply historical city known for the Bamoun Kingdom.",
+    "latitude": 5.7289,
+    "longitude": 10.8996,
+    "image_url": "https://i.pinimg.com/736x/a9/17/3f/a9173fc67780e32797673bfa46a3a454.jpg"
+  },
+  {
+    "id": "city-10",
+    "name": "Bamenda",
+    "region_id": "reg-4",
+    "description": "The capital of the Northwest, nestled in the highlands.",
+    "latitude": 5.9587,
+    "longitude": 10.1524,
+    "image_url": "https://i.pinimg.com/1200x/f7/f0/28/f7f0289cbb8950c11e86ce1d53c00741.jpg"
+  },
+  {
+    "id": "city-11",
+    "name": "Kumbo",
+    "region_id": "reg-4",
+    "description": "Known for horse racing and traditional palaces.",
+    "latitude": 6.2,
+    "longitude": 10.6667,
+    "image_url": "https://i.pinimg.com/1200x/f7/f0/28/f7f0289cbb8950c11e86ce1d53c00741.jpg"
+  },
+  {
+    "id": "city-12",
+    "name": "Wum",
+    "region_id": "reg-4",
+    "description": "Gateway to the scenic Menchum Falls.",
+    "latitude": 6.3833,
+    "longitude": 10.0667,
+    "image_url": "https://i.pinimg.com/1200x/f7/f0/28/f7f0289cbb8950c11e86ce1d53c00741.jpg"
+  },
+  {
+    "id": "city-13",
+    "name": "Buea",
+    "region_id": "reg-5",
+    "description": "Former colonial capital, situated on the slopes of Mt. Cameroon.",
+    "latitude": 4.1561,
+    "longitude": 9.2435,
+    "image_url": "https://i.pinimg.com/1200x/07/e3/0a/07e30a643c049d44bda0faf1dc0e9486.jpg"
+  },
+  {
+    "id": "city-14",
+    "name": "Limbe",
+    "region_id": "reg-5",
+    "description": "Coastal resort town with botanical gardens and black sand beaches.",
+    "latitude": 4.024,
+    "longitude": 9.2149,
+    "image_url": "https://i.pinimg.com/1200x/07/e3/0a/07e30a643c049d44bda0faf1dc0e9486.jpg"
+  },
+  {
+    "id": "city-15",
+    "name": "Kumba",
+    "region_id": "reg-5",
+    "description": "Largest commercial town in the Southwest.",
+    "latitude": 4.6366,
+    "longitude": 9.4468,
+    "image_url": "https://i.pinimg.com/1200x/07/e3/0a/07e30a643c049d44bda0faf1dc0e9486.jpg"
+  },
+  {
+    "id": "city-16",
+    "name": "Maroua",
+    "region_id": "reg-6",
+    "description": "Capital of the Far North, known for its artisans and dry climate.",
+    "latitude": 10.5936,
+    "longitude": 14.3159,
+    "image_url": "https://i.pinimg.com/736x/4e/05/08/4e0508f56234536f8f3d4237d98e788b.jpg"
+  },
+  {
+    "id": "city-17",
+    "name": "Yagoua",
+    "region_id": "reg-6",
+    "description": "A town bordering Chad, near the Logone river.",
+    "latitude": 10.34,
+    "longitude": 15.2333,
+    "image_url": "https://i.pinimg.com/736x/4e/05/08/4e0508f56234536f8f3d4237d98e788b.jpg"
+  },
+  {
+    "id": "city-18",
+    "name": "Mokolo",
+    "region_id": "reg-6",
+    "description": "Gateway to the Mandara Mountains.",
+    "latitude": 10.7417,
+    "longitude": 13.8025,
+    "image_url": "https://i.pinimg.com/736x/4e/05/08/4e0508f56234536f8f3d4237d98e788b.jpg"
+  },
+  {
+    "id": "city-19",
+    "name": "Garoua",
+    "region_id": "reg-7",
+    "description": "A major port city on the Benue River.",
+    "latitude": 9.3,
+    "longitude": 13.4,
+    "image_url": "https://i.pinimg.com/736x/61/60/3e/61603ef9854604c4c805868d5c424a67.jpg"
+  },
+  {
+    "id": "city-20",
+    "name": "Guider",
+    "region_id": "reg-7",
+    "description": "Famous for the spectacular Kola Gorges nearby.",
+    "latitude": 9.9328,
+    "longitude": 13.9486,
+    "image_url": "https://i.pinimg.com/736x/61/60/3e/61603ef9854604c4c805868d5c424a67.jpg"
+  },
+  {
+    "id": "city-21",
+    "name": "Figuil",
+    "region_id": "reg-7",
+    "description": "Known for marble quarries and ancient petroglyphs.",
+    "latitude": 9.75,
+    "longitude": 13.9667,
+    "image_url": "https://i.pinimg.com/736x/61/60/3e/61603ef9854604c4c805868d5c424a67.jpg"
+  },
+  {
+    "id": "city-22",
+    "name": "Ngaoundéré",
+    "region_id": "reg-8",
+    "description": "Capital of the Adamawa plateau, terminus of the railway.",
+    "latitude": 7.3276,
+    "longitude": 13.5847,
+    "image_url": "https://i.pinimg.com/1200x/3d/56/cf/3d56cf496b67875623bf99ebc7c9f28b.jpg"
+  },
+  {
+    "id": "city-23",
+    "name": "Meiganga",
+    "region_id": "reg-8",
+    "description": "A commercial hub in the southern part of the plateau.",
+    "latitude": 6.5167,
+    "longitude": 14.3,
+    "image_url": "https://i.pinimg.com/1200x/3d/56/cf/3d56cf496b67875623bf99ebc7c9f28b.jpg"
+  },
+  {
+    "id": "city-24",
+    "name": "Banyo",
+    "region_id": "reg-8",
+    "description": "Known for its traditional chiefdoms and cattle markets.",
+    "latitude": 6.75,
+    "longitude": 11.8167,
+    "image_url": "https://i.pinimg.com/1200x/3d/56/cf/3d56cf496b67875623bf99ebc7c9f28b.jpg"
+  },
+  {
+    "id": "city-25",
+    "name": "Bertoua",
+    "region_id": "reg-9",
+    "description": "Capital city of the vast Eastern forest region.",
+    "latitude": 4.5833,
+    "longitude": 13.6833,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNt0G_gBgMBmpYjYHUTt4YlFEswe6GX5-gA&s"
+  },
+  {
+    "id": "city-26",
+    "name": "Batouri",
+    "region_id": "reg-9",
+    "description": "A gold-mining town providing access to deep reserves.",
+    "latitude": 4.4333,
+    "longitude": 14.3667,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNt0G_gBgMBmpYjYHUTt4YlFEswe6GX5-gA&s"
+  },
+  {
+    "id": "city-27",
+    "name": "Abong-Mbang",
+    "region_id": "reg-9",
+    "description": "A crossroads town near the Dja Faunal Reserve.",
+    "latitude": 3.9833,
+    "longitude": 13.1833,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNt0G_gBgMBmpYjYHUTt4YlFEswe6GX5-gA&s"
+  },
+  {
+    "id": "city-28",
+    "name": "Ebolowa",
+    "region_id": "reg-10",
+    "description": "Capital of the Southern region, known for agriculture.",
+    "latitude": 2.9,
+    "longitude": 11.15,
+    "image_url": "https://i.pinimg.com/1200x/ef/e6/c6/efe6c6f49c6c2f6d37790789160400cf.jpg"
+  },
+  {
+    "id": "city-29",
+    "name": "Kribi",
+    "region_id": "reg-10",
+    "description": "Premier beach resort destination of Cameroon.",
+    "latitude": 2.936,
+    "longitude": 9.9146,
+    "image_url": "https://i.pinimg.com/1200x/ef/e6/c6/efe6c6f49c6c2f6d37790789160400cf.jpg"
+  },
+  {
+    "id": "city-30",
+    "name": "Sangmelima",
+    "region_id": "reg-10",
+    "description": "A forestry town with access to the Dja Reserve.",
+    "latitude": 2.9333,
+    "longitude": 11.9833,
+    "image_url": "https://i.pinimg.com/1200x/ef/e6/c6/efe6c6f49c6c2f6d37790789160400cf.jpg"
+  }
+]

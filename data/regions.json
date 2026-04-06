@@ -1,0 +1,62 @@
+[
+  {
+    "id": "reg-1",
+    "name": "Littoral",
+    "description": "The economic heartbeat of Cameroon, featuring coastal lowlands, industrial zones, and vibrant city life.",
+    "image_url": "https://i.pinimg.com/1200x/52/78/22/527822597ac14b1d6251626d42b2edbb.jpg"
+  },
+  {
+    "id": "reg-2",
+    "name": "Centre",
+    "description": "The political capital region, rich in cultural monuments, lush forests, and government institutions.",
+    "image_url": "https://i.pinimg.com/736x/99/c3/27/99c327500bcdeece7f5660fa853cea18.jpg"
+  },
+  {
+    "id": "reg-3",
+    "name": "West",
+    "description": "The cultural highlands known for its cooler climate, rich traditional chiefdoms, and intricate artisan crafts.",
+    "image_url": "https://i.pinimg.com/736x/a9/17/3f/a9173fc67780e32797673bfa46a3a454.jpg"
+  },
+  {
+    "id": "reg-4",
+    "name": "Northwest",
+    "description": "Beautiful grassy highlands offering spectacular mountain views, crater lakes, and rich Anglophone culture.",
+    "image_url": "https://i.pinimg.com/1200x/f7/f0/28/f7f0289cbb8950c11e86ce1d53c00741.jpg"
+  },
+  {
+    "id": "reg-5",
+    "name": "Southwest",
+    "description": "Home to the majestic Mount Cameroon, dark sand beaches, and incredible biodiversity.",
+    "image_url": "https://i.pinimg.com/1200x/07/e3/0a/07e30a643c049d44bda0faf1dc0e9486.jpg"
+  },
+  {
+    "id": "reg-6",
+    "name": "Far North",
+    "description": "A stunning semi-arid landscape featuring dramatic volcanic plugs, savannas, and rich wildlife.",
+    "image_url": "https://i.pinimg.com/736x/4e/05/08/4e0508f56234536f8f3d4237d98e788b.jpg"
+  },
+  {
+    "id": "reg-7",
+    "name": "North",
+    "description": "Extensive national parks, savanna ecosystems, and impressive geological formations like the Kola Gorges.",
+    "image_url": "https://i.pinimg.com/736x/61/60/3e/61603ef9854604c4c805868d5c424a67.jpg"
+  },
+  {
+    "id": "reg-8",
+    "name": "Adamawa",
+    "description": "The water tower of Cameroon. A transitional zone of volcanic craters, crater lakes, and sprawling cattle ranches.",
+    "image_url": "https://i.pinimg.com/1200x/3d/56/cf/3d56cf496b67875623bf99ebc7c9f28b.jpg"
+  },
+  {
+    "id": "reg-9",
+    "name": "East",
+    "description": "Vast, untouched equatorial rainforests with massive biodiversity, indigenous Pygmy communities, and logging towns.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNt0G_gBgMBmpYjYHUTt4YlFEswe6GX5-gA&s"
+  },
+  {
+    "id": "reg-10",
+    "name": "South",
+    "description": "Pristine coastal beaches, deep equatorial forests, and the famous Lobe waterfalls meeting the ocean.",
+    "image_url": "https://i.pinimg.com/1200x/ef/e6/c6/efe6c6f49c6c2f6d37790789160400cf.jpg"
+  }
+]

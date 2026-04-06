@@ -3,44 +3,70 @@ import Link from 'next/link';
 
 export const Footer = () => {
   return (
-    <footer className="bg-neutral-black text-neutral-white py-16 px-6">
+    <footer style={{ background: "#0d1a0e", color: "#F0F0F0" }} className="py-16 px-6">
       <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-12">
         <div className="md:col-span-2">
-          <Link href="/" className="text-3xl font-bold mb-6 block text-neutral-white">
+          <Link href="/" className="text-3xl font-bold mb-6 block text-white">
             VisitKamer
           </Link>
-          <p className="text-neutral-medium max-w-sm mb-8 leading-relaxed">
-            The ultimate gateway to Cameroon’s tourism. Discover all 10 regions, book unforgettable experiences, and explore the "Africa in miniature".
+          <p className="max-w-sm mb-8 leading-relaxed" style={{ color: "rgba(240,240,240,0.6)" }}>
+            The ultimate gateway to Cameroon's tourism. Discover all 10 regions, book unforgettable experiences, and explore the "Africa in miniature".
           </p>
         </div>
 
         <div>
-          <h4 className="text-lg font-bold mb-6">Explore</h4>
+          <h4 className="text-lg font-bold mb-6 text-white">Explore</h4>
           <ul className="space-y-4">
-            <li><Link href="/discover" className="text-neutral-medium hover:text-white transition-colors">Discover</Link></li>
-            <li><Link href="/regions" className="text-neutral-medium hover:text-white transition-colors">All 10 Regions</Link></li>
-            <li><Link href="/attractions" className="text-neutral-medium hover:text-white transition-colors">Destinations</Link></li>
-            <li><Link href="/bookings" className="text-neutral-medium hover:text-white transition-colors">Interactive Map</Link></li>
+            {[
+              { name: 'Discover', href: '/' },
+              { name: 'All 10 Regions', href: '/regions' },
+              { name: 'Top Destinations', href: '/top-destinations' },
+            ].map(link => (
+              <li key={link.href}>
+                <Link href={link.href}
+                  className="transition-colors hover:text-white"
+                  style={{ color: "rgba(240,240,240,0.5)" }}>
+                  {link.name}
+                </Link>
+              </li>
+            ))}
           </ul>
         </div>
 
         <div>
-          <h4 className="text-lg font-bold mb-6">About</h4>
+          <h4 className="text-lg font-bold mb-6 text-white">About</h4>
           <ul className="space-y-4">
-            <li><Link href="/about" className="text-neutral-medium hover:text-white transition-colors">Our Mission</Link></li>
-            <li><Link href="/contact" className="text-neutral-medium hover:text-white transition-colors">Contact Us</Link></li>
-            <li><Link href="/terms" className="text-neutral-medium hover:text-white transition-colors">Terms of Service</Link></li>
-            <li><Link href="/privacy" className="text-neutral-medium hover:text-white transition-colors">Privacy Policy</Link></li>
+            {[
+              { name: 'Our Mission', href: '/about' },
+              { name: 'Contact Us', href: '/contact' },
+              { name: 'Terms of Service', href: '/terms' },
+              { name: 'Sign In', href: '/login' },
+            ].map(link => (
+              <li key={link.href}>
+                <Link href={link.href}
+                  className="transition-colors hover:text-white"
+                  style={{ color: "rgba(240,240,240,0.5)" }}>
+                  {link.name}
+                </Link>
+              </li>
+            ))}
           </ul>
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-neutral-medium/10 flex flex-col md:flex-row justify-between items-center gap-6">
-        <p className="text-neutral-medium text-sm">© {new Date().getFullYear()} VisitKamer. All rights reserved.</p>
+      <div className="max-w-7xl mx-auto mt-16 pt-8 flex flex-col md:flex-row justify-between items-center gap-6"
+        style={{ borderTop: "1px solid rgba(255,255,255,0.08)" }}>
+        <p className="text-sm" style={{ color: "rgba(240,240,240,0.4)" }}>
+          © {new Date().getFullYear()} VisitKamer. All rights reserved.
+        </p>
         <div className="flex gap-6">
-           <Link href="#" className="text-neutral-medium hover:text-white transition-colors">Instagram</Link>
-           <Link href="#" className="text-neutral-medium hover:text-white transition-colors">Twitter</Link>
-           <Link href="#" className="text-neutral-medium hover:text-white transition-colors">Facebook</Link>
+          {['Instagram', 'Twitter', 'Facebook'].map(s => (
+            <Link key={s} href="#"
+              className="text-sm transition-colors hover:text-white"
+              style={{ color: "rgba(240,240,240,0.4)" }}>
+              {s}
+            </Link>
+          ))}
         </div>
       </div>
     </footer>
